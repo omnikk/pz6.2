@@ -6,3 +6,9 @@ deploy/tls/cert.pem
 vendor/
 body.json
 task.json
+# временные файлы curl/тестов
+cookies.txt
+login.json
+body.json
+body2.json
+xss.json
