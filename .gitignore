@@ -1,0 +1,8 @@
+deploy/tls/key.pem
+deploy/tls/cert.pem
+*.exe
+.vscode/
+.idea/
+vendor/
+body.json
+task.json
